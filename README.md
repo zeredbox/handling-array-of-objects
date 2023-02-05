@@ -1,4 +1,4 @@
-# Code snippet. Minimal project : manipulating multiple objects in an array
+# Code snippet. Minimal project : handling multiple objects in an array
 Project written for with P5.js library : Minimal project for manipulating objects stored in an array.
 **[See the project live on p5js.org](https://editor.p5js.org/zeredbox/full/RvE2ya74h)**.
 
