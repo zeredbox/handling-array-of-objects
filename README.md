@@ -9,7 +9,7 @@ Here is a minimal program to illustrate object handling with P5;Js. The program 
 
 Each rectangle is therefore an object, they are all registered when they are created in the array "rectangles = []". Each element of the array, thus each rectangle, can be manipulated individually thanks to the methods of the "rectangle.js" class. Clicking on a rectangle calls the 'delete' method which deletes the rectangle(s) under the mouse pointer. Double-clicking on the canva creates a new rectangle.
 
-![hsb harmonic color](/hsb-harmonic.png)
+![hsb harmonic color](/rectangles.png)
 
 
 ## Write me or comment
